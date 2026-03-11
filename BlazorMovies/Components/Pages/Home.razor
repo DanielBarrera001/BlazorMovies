@@ -1,6 +1,11 @@
 ﻿@page "/"
+@attribute [StreamRendering]
 
 <PageTitle>Home</PageTitle>
+
+<BMBoton />
+
+<br />
 
 <h3>En cartelera</h3>
 <ListadoPeliculas Peliculas="enCartelera"/>
@@ -9,23 +14,27 @@
 <ListadoPeliculas Peliculas="futurosEstrenos"/>
 
 @code{
-    private List<Pelicula> enCartelera = new List<Pelicula>
-    {
-        new Pelicula
-        {
-            Id = 1,
-            Titulo = "Interestelar",
-            FechaLanzamiento = new DateTime(2010,2,14)
-        },
-        new Pelicula
-        {
-            Id = 2,
-            Titulo = "Interestelar 2",
-            FechaLanzamiento = new DateTime(2020,2,14)
-        }
-    };
 
-    private List<Pelicula> futurosEstrenos = new List<Pelicula>
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(TimeSpan.FromSeconds(2));
+
+        enCartelera = new List<Pelicula>
+            {
+            new Pelicula
+            {
+                Id = 1,
+                Titulo = "Interestelar",
+                FechaLanzamiento = new DateTime(2010,2,14)
+            },
+            new Pelicula
+            {
+                Id = 2,
+                Titulo = "Interestelar 2",
+                FechaLanzamiento = new DateTime(2020,2,14)
+            }};
+
+        futurosEstrenos = new List<Pelicula>
     {
         new Pelicula
         {
@@ -38,6 +47,9 @@
             Id = 4,
             Titulo = "Interestelar 4",
             FechaLanzamiento = new DateTime(2020,2,14)
-        }
-    };
+        }};
+    }
+
+    private List<Pelicula>? enCartelera = null;
+    private List<Pelicula>? futurosEstrenos = null;
 }

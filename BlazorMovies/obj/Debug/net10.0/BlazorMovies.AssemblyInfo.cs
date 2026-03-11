@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMovies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119faec13ba0dbb265ebe708145daad8f5f3178f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMovies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMovies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

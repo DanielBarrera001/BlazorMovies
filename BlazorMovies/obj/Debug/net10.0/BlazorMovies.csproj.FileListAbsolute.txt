@@ -84,3 +84,4 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\refint\
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.pdb
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.genruntimeconfig.cache
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\ref\BlazorMovies.dll
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.sourcelink.json

@@ -1,11 +1,22 @@
-﻿<div>
-    @foreach(var pelicula in Peliculas)
-    {
-        <p><b>Titulo: </b> @pelicula.Titulo</p>
-        <p><b>Fecha lanzamiento:  </b>@pelicula.FechaLanzamiento.ToString("dd MM yyyy")</p>
-    }
-</div>
+﻿
+@if (Peliculas is null)
+{
+    <Cargando/>
+}
+else if (Peliculas.Count == 0)
+{
+    <text>No existen peliculas para mostrar</text>
+}
+else
+{
+    <div>
+        @foreach (var pelicula in Peliculas)
+        {
+            <PeliculaIndividual Pelicula="pelicula"/>
+        }
+    </div>
+}
 
 @code {
-    [Parameter] public required List<Pelicula> Peliculas { get; set; }
+    [Parameter, EditorRequired] public List<Pelicula>? Peliculas { get; set; }
 }

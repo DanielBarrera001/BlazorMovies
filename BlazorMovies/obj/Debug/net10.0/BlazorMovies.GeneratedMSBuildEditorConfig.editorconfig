@@ -26,8 +26,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/Boton/BMBoton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xCb3RvblxCTUJvdG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/Cargando.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xDYXJnYW5kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/ListadoPeliculas.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xMaXN0YWRvUGVsaWN1bGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/PeliculaIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xQZWxpY3VsYUluZGl2aWR1YWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Counter.razor]
