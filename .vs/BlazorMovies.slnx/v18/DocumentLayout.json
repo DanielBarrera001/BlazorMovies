@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\compartidos\\listadopeliculas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\compartidos\\listadopeliculas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BCD59C-C8BF-43D1-9CFE-FBDE6A0B402C}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T02:48:41.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListadoPeliculas.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T02:40:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "BlazorMovies\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:43:53.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

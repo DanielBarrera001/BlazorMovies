@@ -1,0 +1,11 @@
+﻿<div>
+    @foreach(var pelicula in Peliculas)
+    {
+        <p><b>Titulo: </b> @pelicula.Titulo</p>
+        <p><b>Fecha lanzamiento:  </b>@pelicula.FechaLanzamiento.ToString("dd MM yyyy")</p>
+    }
+</div>
+
+@code {
+    [Parameter] public required List<Pelicula> Peliculas { get; set; }
+}
