@@ -1,5 +1,5 @@
 ﻿<button type="@Tipo.ToString()" disabled="@Disabled"
-class="@ClaseCSS" @attributes="AtributosAdicionales" @onclick="EventoClick">@Texto</button>
+class="@ClaseCSS" @attributes="AtributosAdicionales" @onclick="onClick">@Texto</button>
 
 @code {
     [Parameter] public required string Texto { get; set; } = "Enviar";
@@ -7,12 +7,9 @@ class="@ClaseCSS" @attributes="AtributosAdicionales" @onclick="EventoClick">@Tex
     [Parameter] public BotonTipo Tipo { get; set; } = BotonTipo.Button;
     [Parameter] public Variante Variante { get; set; } = Variante.Primario;
     [Parameter] public Tamaño Tamaño { get; set; } = Tamaño.Md;
-    [Parameter(CaptureUnmatchedValues = true)] public Dictionary<string, object>? AtributosAdicionales { get; set; }
-
-    private void EventoClick()
-    {
-        Console.WriteLine("Click");
-    }
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object>? AtributosAdicionales { get; set; }
+    [Parameter] public EventCallback onClick { get; set; }
 
     private string ClaseCSS
     {

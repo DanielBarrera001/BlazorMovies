@@ -4,7 +4,8 @@
 
 <PageTitle>Home</PageTitle>
 
-<BMBoton id="mi-boton" name="mi-boton"/>
+<BMBoton id="mi-boton" name="mi-boton" class="p-2" onClick="manejarClick"/>
+<BMBoton Texto="Boton secundario" onClick="@(() => manejarClick("Click secundario"))"/>
 
 <hr />
 
@@ -57,6 +58,13 @@
 
         StateHasChanged();
     }
+
+    private void manejarClick()
+    {
+        Console.WriteLine("Desde el click padre");
+    }
+
+    private void manejarClick(string mensaje) => Console.WriteLine(mensaje);
 
     private List<Pelicula>? enCartelera = null;
     private List<Pelicula>? futurosEstrenos = null;
