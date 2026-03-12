@@ -1,11 +1,12 @@
 ﻿@page "/"
 @attribute [StreamRendering]
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
-<BMBoton />
+<BMBoton id="mi-boton" name="mi-boton"/>
 
-<br />
+<hr />
 
 <h3>En cartelera</h3>
 <ListadoPeliculas Peliculas="enCartelera"/>
@@ -15,8 +16,13 @@
 
 @code{
 
-    protected override async Task OnInitializedAsync()
+    protected override async Task OnAfterRenderAsync(bool firstRender)
     {
+        if (!firstRender)
+        {
+            return;
+        }
+
         await Task.Delay(TimeSpan.FromSeconds(2));
 
         enCartelera = new List<Pelicula>
@@ -48,6 +54,8 @@
             Titulo = "Interestelar 4",
             FechaLanzamiento = new DateTime(2020,2,14)
         }};
+
+        StateHasChanged();
     }
 
     private List<Pelicula>? enCartelera = null;
