@@ -9,13 +9,23 @@
 
 <hr />
 
-<h3>En cartelera</h3>
-<ListadoPeliculas Peliculas="enCartelera"/>
+<input type="checkbox" @bind="mostrarPeliculas"/>
+Mostrar peliculas
 
-<h3>Futuros estrenos</h3>
-<ListadoPeliculas Peliculas="futurosEstrenos"/>
+@if (mostrarPeliculas)
+{
+    <h3>En cartelera</h3>
+    <ListadoPeliculas Peliculas="enCartelera" />
+
+    <h3>Futuros estrenos</h3>
+    <ListadoPeliculas Peliculas="futurosEstrenos" />
+}
+
+
 
 @code{
+
+    private bool mostrarPeliculas = false;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -62,6 +72,7 @@
     private void manejarClick()
     {
         Console.WriteLine("Desde el click padre");
+        mostrarPeliculas = !mostrarPeliculas;
     }
 
     private void manejarClick(string mensaje) => Console.WriteLine(mensaje);

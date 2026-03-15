@@ -12,11 +12,27 @@ else
     <div>
         @foreach (var pelicula in Peliculas)
         {
-            <PeliculaIndividual Pelicula="pelicula"/>
+            <PeliculaIndividual @key="pelicula.Id" Pelicula="pelicula" EliminarPelicula="EliminarPelicula"/>
         }
     </div>
 }
 
 @code {
     [Parameter, EditorRequired] public List<Pelicula>? Peliculas { get; set; }
+    private List<Pelicula> peliculas { get; set; } = null!;
+
+    protected override void OnInitialized()
+    {
+        peliculas = Peliculas!;
+    }
+
+    protected override void OnParametersSet()
+    {
+        peliculas = Peliculas!;
+    }
+
+    private void EliminarPelicula(Pelicula pelicula)
+    {
+        Peliculas!.Remove(pelicula);
+    }
 }
