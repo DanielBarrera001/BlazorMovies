@@ -1,5 +1,7 @@
 ﻿<p><b>Titulo: </b> @Pelicula.Titulo
-<BMBoton Texto="Borrar" onClick="@(() => EliminarPelicula.InvokeAsync(Pelicula))"/>
+<BMBoton Variante="Variante.Error" OnClick="@(() => EliminarPelicula.InvokeAsync(Pelicula))">
+    Borrar
+</BMBoton>
 </p>
 <p><b>Fecha lanzamiento:  </b>@Pelicula.FechaLanzamiento.ToString("dd MM yyyy")</p>
 

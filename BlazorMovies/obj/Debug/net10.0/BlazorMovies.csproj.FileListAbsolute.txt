@@ -15,6 +15,7 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorM
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.AssemblyInfo.cs
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.sourcelink.json
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -69,8 +70,6 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compres
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\n4kdy8ia5c-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\yf1br5hh7l-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\qomq6wnj5d-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\thb1so161a-{0}-mgww215af1-mgww215af1.gz
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\6e91tdyuqo-{0}-dy8h75y8gn-dy8h75y8gn.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-ljtwwiyniv-ljtwwiyniv.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-ljtwwiyniv-ljtwwiyniv.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\staticwebassets.build.json
@@ -84,4 +83,5 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\refint\
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.pdb
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.genruntimeconfig.cache
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\ref\BlazorMovies.dll
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.sourcelink.json
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\thb1so161a-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\6e91tdyuqo-{0}-2tj1sjhksk-2tj1sjhksk.gz

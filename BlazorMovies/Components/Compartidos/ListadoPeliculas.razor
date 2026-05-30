@@ -1,38 +1,68 @@
 ﻿
-@if (Peliculas is null)
-{
-    <Cargando/>
-}
-else if (Peliculas.Count == 0)
-{
-    <text>No existen peliculas para mostrar</text>
-}
-else
-{
-    <div>
-        @foreach (var pelicula in Peliculas)
-        {
-            <PeliculaIndividual @key="pelicula.Id" Pelicula="pelicula" EliminarPelicula="EliminarPelicula"/>
-        }
-    </div>
-}
+<ListadoGenerico Listado="Peliculas">
+    <ChildContent Context="pelicula">
+        <PeliculaIndividual @key="pelicula.Id" Pelicula="pelicula" EliminarPelicula="EliminarPelicula" />
+    </ChildContent>
+</ListadoGenerico>
+
 
 @code {
     [Parameter, EditorRequired] public List<Pelicula>? Peliculas { get; set; }
+    private bool shouldRender = true;
+    private int cantidadPeliculasAnterior = -1;
+
     private List<Pelicula> peliculas { get; set; } = null!;
 
     protected override void OnInitialized()
     {
+        Console.WriteLine("OnInitialized");
         peliculas = Peliculas!;
     }
 
     protected override void OnParametersSet()
     {
+        Console.WriteLine("OnParameterSet");
         peliculas = Peliculas!;
     }
 
+    public override async Task SetParametersAsync (ParameterView parameters)
+    {
+        Console.WriteLine("SetParameterAsync");
+
+        shouldRender = false;
+
+        if(parameters.TryGetValue<List<Pelicula>>(nameof(Peliculas), out var nuevasPeliculas))
+        {
+            if(nuevasPeliculas is not null)
+            {
+                if(cantidadPeliculasAnterior != nuevasPeliculas.Count)
+                {
+                    shouldRender = true;
+                    cantidadPeliculasAnterior = nuevasPeliculas.Count;
+                }
+            }
+        }
+
+        await base.SetParametersAsync(parameters);
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"OnAfterRender: {firstRender}");
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+
+    // protected override bool ShouldRender()
+    // {
+    //     Console.WriteLine("Should render");
+    //     return shouldRender;
+    // }
+
     private void EliminarPelicula(Pelicula pelicula)
     {
+        shouldRender = true;
         Peliculas!.Remove(pelicula);
+        cantidadPeliculasAnterior = Peliculas.Count;
     }
 }

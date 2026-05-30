@@ -4,8 +4,11 @@
 
 <PageTitle>Home</PageTitle>
 
+
 <BMBoton id="mi-boton" name="mi-boton" class="p-2" onClick="manejarClick"/>
-<BMBoton Texto="Boton secundario" onClick="@(() => manejarClick("Click secundario"))"/>
+<BMBoton onClick="@(() => manejarClick("Click secundario"))">
+    Mi texto personalizado
+</BMBoton>
 
 <hr />
 
@@ -20,7 +23,6 @@ Mostrar peliculas
     <h3>Futuros estrenos</h3>
     <ListadoPeliculas Peliculas="futurosEstrenos" />
 }
-
 
 
 @code{
@@ -55,13 +57,13 @@ Mostrar peliculas
     {
         new Pelicula
         {
-            Id = 3,
+            Id = 5,
             Titulo = "Interestelar 3",
             FechaLanzamiento = new DateTime(2010,2,14)
         },
         new Pelicula
         {
-            Id = 4,
+            Id = 6,
             Titulo = "Interestelar 4",
             FechaLanzamiento = new DateTime(2020,2,14)
         }};

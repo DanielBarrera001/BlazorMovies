@@ -1,3 +1,4 @@
+using BlazorMovies;
 using BlazorMovies.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddTransient<ServicioTransient>();
+builder.Services.AddSingleton<ServicioSingleton>();
+builder.Services.AddScoped<ServicioScoped>();
 
 var app = builder.Build();
 

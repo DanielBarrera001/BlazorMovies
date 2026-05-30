@@ -1,19 +1,47 @@
 ﻿@page "/counter"
 @rendermode InteractiveServer
+@inject ServicioSingleton singleton
+@inject ServicioTransient transient
+@inject ServicioScoped scoped2
 
 <PageTitle>Counter</PageTitle>
 
 <h1>Counter</h1>
 
 <p role="status">Current count: @currentCount</p>
+<p>Singleton count: @singleton.Valor</p>
+<p>Transient count: @transient.Valor</p>
+<p>Scoped count: @scoped2.Valor</p>
+
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
+
+    private List<Pelicula> futurosEstrenos = new List<Pelicula>
+    {
+        new Pelicula
+        {
+            Id = 3,
+            Titulo = "Avengers: Secret Wars",
+            FechaLanzamiento = new DateTime(2027, 5, 7)
+        },
+        new Pelicula
+        {
+            Id = 4,
+            Titulo = "Batman",
+            FechaLanzamiento = new DateTime(2027, 10, 5)
+        }
+    };
+
     private int currentCount = 0;
 
     private void IncrementCount()
     {
         currentCount++;
+        transient.Valor = currentCount;
+        singleton.Valor = currentCount;
+        scoped2.Valor = currentCount;
+
     }
 }
