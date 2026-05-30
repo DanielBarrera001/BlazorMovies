@@ -15,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\servicios\\serviciopeliculasenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\servicios\\serviciopeliculasenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\servicios\\iserviciopeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\servicios\\iserviciopeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\inyecciondedependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\inyecciondedependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorMovies\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
-              "RelativeToolTip": "BlazorMovies\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T23:30:39.655Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -77,9 +72,35 @@
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T01:28:34.47Z",
+              "WhenOpened": "2026-05-30T23:51:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
+              "RelativeToolTip": "BlazorMovies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:47:23.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioPeliculasEnMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Servicios\\ServicioPeliculasEnMemoria.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Servicios\\ServicioPeliculasEnMemoria.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Servicios\\ServicioPeliculasEnMemoria.cs",
+              "RelativeToolTip": "BlazorMovies\\Servicios\\ServicioPeliculasEnMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:46:13.835Z",
               "EditorCaption": ""
             },
             {
@@ -90,14 +111,27 @@
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T02:48:41.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "IServicioPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Servicios\\IServicioPeliculas.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Servicios\\IServicioPeliculas.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Servicios\\IServicioPeliculas.cs",
+              "RelativeToolTip": "BlazorMovies\\Servicios\\IServicioPeliculas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:45:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InyeccionDeDependencias.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\InyeccionDeDependencias.cs",
               "RelativeDocumentMoniker": "BlazorMovies\\InyeccionDeDependencias.cs",
@@ -105,12 +139,11 @@
               "RelativeToolTip": "BlazorMovies\\InyeccionDeDependencias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T23:27:43.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T23:27:43.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ListadoGenerico.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\ListadoGenerico.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\ListadoGenerico.razor",
@@ -122,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ListadoPeliculas.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
@@ -130,12 +163,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\ListadoPeliculas.razor",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T02:40:34.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T02:40:34.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PeliculaIndividual.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\PeliculaIndividual.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\PeliculaIndividual.razor",
@@ -147,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BMBoton.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\Boton\\BMBoton.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\Boton\\BMBoton.razor",
@@ -159,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\Enums.cs",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\Enums.cs",
@@ -171,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\Boton\\Enums.cs",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\Boton\\Enums.cs",
@@ -183,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Pelicula.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
               "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\Pelicula.cs",

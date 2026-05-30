@@ -1,5 +1,6 @@
 using BlazorMovies;
 using BlazorMovies.Components;
+using BlazorMovies.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,7 @@ builder.Services.AddRazorComponents()
 builder.Services.AddTransient<ServicioTransient>();
 builder.Services.AddSingleton<ServicioSingleton>();
 builder.Services.AddScoped<ServicioScoped>();
+builder.Services.AddScoped<IServicioPeliculas, ServicioPeliculasEnMemoria>();
 
 var app = builder.Build();
 
