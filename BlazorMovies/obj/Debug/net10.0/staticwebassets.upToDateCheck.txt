@@ -1,6 +1,8 @@
 wwwroot\app.css
 wwwroot\favicon.png
 wwwroot\images\Loading_icon.gif
+wwwroot\JS\counter.js
+wwwroot\JS\utilidades.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -46,10 +48,10 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 Components\Layout\ReconnectModal.razor.js
-C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.5\build\..\_framework\blazor.web.js
-C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.5\build\..\_framework\blazor.server.js
-C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.5\_framework\blazor.web.js
-C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.5\_framework\blazor.server.js
+C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.14\build\..\_framework\blazor.web.js
+C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.14\build\..\_framework\blazor.server.js
+C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.14\_framework\blazor.server.js
+C:\Users\Daniel\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.14\_framework\blazor.web.js
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\Components\Layout\ReconnectModal.razor.js
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
@@ -96,3 +98,5 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\lib\bootstrap\dis
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\app.css
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\JS\utilidades.js
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\wwwroot\JS\counter.js
