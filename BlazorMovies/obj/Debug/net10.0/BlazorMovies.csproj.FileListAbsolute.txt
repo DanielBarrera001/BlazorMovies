@@ -86,6 +86,5 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compres
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\thb1so161a-{0}-xmryko9e6j-xmryko9e6j.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\6e91tdyuqo-{0}-7d17r9czpp-7d17r9czpp.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMo.2039E770.Up2Date
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\Components\Pages\Counter.razor.rz.scp.css
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-qwfin2i7yx-qwfin2i7yx.gz
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-qwfin2i7yx-qwfin2i7yx.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-ljtwwiyniv-ljtwwiyniv.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-ljtwwiyniv-ljtwwiyniv.gz

@@ -1,18 +1,33 @@
 ﻿@using BlazorMovies.Utilidades
 @inject IJSRuntime js
 
-<ListadoGenerico Listado="Peliculas">
-    <ErrorBoundary>
-        <ChildContent>
-        <PeliculaIndividual @key="context.Id" Pelicula="context" />
-        </ChildContent>
-        <ErrorContent Context="error">
-            <hr />
-            La pelicula no pudo ser cargada...
-            <hr />
-        </ErrorContent>
-    </ErrorBoundary>
-</ListadoGenerico>
+<div class="my-4">
+    <div class="row g-4 text-center">
+        <ListadoGenerico Listado="Peliculas">
+            <ErrorBoundary>
+                <ChildContent>
+                    <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+                        <div class="h-100">
+                            <PeliculaIndividual @key="context.Id" Pelicula="context" />
+                        </div>
+                    </div>
+                </ChildContent>
+                <ErrorContent Context="error">
+                    <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+                        <div class="h-100">
+                            <div class="card-body p-2">
+                                <div class="fw-semibold">
+                                    Error mostrando la pelicula...
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ErrorContent>
+            </ErrorBoundary>
+        </ListadoGenerico>
+    </div>
+</div>
+
 
 
 @code {

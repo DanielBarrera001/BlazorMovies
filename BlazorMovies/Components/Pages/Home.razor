@@ -9,24 +9,16 @@
 
     <h3>Futuros estrenos</h3>
     <ListadoPeliculas Peliculas="futurosEstrenos" />
-}
+
 
 @code{
 
-    protected override async Task OnAfterRenderAsync(bool firstRender)
+    protected override void OnInitialized()
     {
-        if (!firstRender)
-        {
-            return;
-        }
-
         enCartelera = servicioPeliculas.ObtenerPeliculas();
         futurosEstrenos = servicioPeliculas.ObtenerPeliculas();
-
-        StateHasChanged();
     }
 
-   
     private List<Pelicula>? enCartelera = null;
     private List<Pelicula>? futurosEstrenos = null;
 }

@@ -1,6 +1,9 @@
-﻿<p><b>Titulo: </b> @Pelicula.Titulo
-</p>
-<p><b>Fecha lanzamiento:  </b>@Pelicula.FechaLanzamiento.ToString("dd MM yyyy")</p>
+﻿<img src="@Pelicula.posterURL" class="img-fluid mb-2 w-100" style="height: 300px"/>
+<div class="card-body p-2">
+    <div class="fw-semibold">
+        @Pelicula.Titulo
+    </div>
+</div>
 
 @code {
     [Parameter, EditorRequired] public required Pelicula Pelicula { get; set; }

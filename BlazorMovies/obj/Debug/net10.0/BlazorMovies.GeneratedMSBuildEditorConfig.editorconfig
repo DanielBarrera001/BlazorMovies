@@ -31,6 +31,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xCb3RvblxCTUJvdG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/BPInputText.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xCUElucHV0VGV4dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/BPLink.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xCUExpbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Compartidos/Cargando.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xDYXJnYW5kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -47,8 +55,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wYXJ0aWRvc1xQZWxpY3VsYUluZGl2aWR1YWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Actores/CrearActor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3RvcmVzXENyZWFyQWN0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Actores/EditarActor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3RvcmVzXEVkaXRhckFjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Actores/IndiceActores.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY3RvcmVzXEluZGljZUFjdG9yZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Generos/CrearGenero.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcm9zXENyZWFyR2VuZXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Generos/EditarGenero.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcm9zXEVkaXRhckdlbmVyby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Generos/IndiceGeneros.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcm9zXEluZGljZUdlbmVyb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Home.razor]
@@ -57,6 +89,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Peliculas/CrearPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZWxpY3VsYXNcQ3JlYXJQZWxpY3VsYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Peliculas/DetallePelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZWxpY3VsYXNcRGV0YWxsZVBlbGljdWxhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Pages/Peliculas/EditarPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZWxpY3VsYXNcRWRpdGFyUGVsaWN1bGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/source/repos/BlazorMovies/BlazorMovies/Components/Routes.razor]
