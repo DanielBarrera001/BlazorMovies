@@ -1,3 +1,44 @@
+/* /Components/Compartidos/InputImage.razor.rz.scp.css */
+img[b-1s1fy73hmr] {
+    max-height: 200px;
+    max-width: 200px
+}
+/* /Components/Compartidos/SelectorMultiple/SelectorMultiple.razor.rz.scp.css */
+.selector-multiple[b-ygvk2jgjj7]{
+    display: flex;
+}
+
+.selectable-ul[b-ygvk2jgjj7]{
+    height: 200px;
+    overflow-y: auto;
+    list-style-type: none;
+    width: 170px;
+    padding: 0;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+    .selectable-ul li[b-ygvk2jgjj7]{
+        cursor: pointer;
+        border-bottom: 1px #eee solid;
+        padding: 2px 10px;
+        font-size: 14px;
+    }
+
+        .selectable-ul li:hover[b-ygvk2jgjj7]{
+            background-color: #08c;
+        }
+
+.selector-multiple-botones[b-ygvk2jgjj7]{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+}
+
+    .selector-multiple-botones button[b-ygvk2jgjj7]{
+        margin: 5px;
+    }
 /* /Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-92iwu9e8hr] {
     position: relative;

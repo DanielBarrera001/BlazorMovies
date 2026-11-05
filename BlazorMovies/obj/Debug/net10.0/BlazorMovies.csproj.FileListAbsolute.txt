@@ -81,10 +81,12 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\refint\
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.pdb
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.genruntimeconfig.cache
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\ref\BlazorMovies.dll
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\u83fr6zmfa-{0}-ml4ynneftl-ml4ynneftl.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\tj46x5p4n3-{0}-sg30iitwwe-sg30iitwwe.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\thb1so161a-{0}-xmryko9e6j-xmryko9e6j.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\6e91tdyuqo-{0}-7d17r9czpp-7d17r9czpp.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMo.2039E770.Up2Date
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-ljtwwiyniv-ljtwwiyniv.gz
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-ljtwwiyniv-ljtwwiyniv.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\u83fr6zmfa-{0}-nz9x222sg1-nz9x222sg1.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\Components\Compartidos\InputImage.razor.rz.scp.css
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\Components\Compartidos\SelectorMultiple\SelectorMultiple.razor.rz.scp.css
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-ixlegtx96i-ixlegtx96i.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-ixlegtx96i-ixlegtx96i.gz

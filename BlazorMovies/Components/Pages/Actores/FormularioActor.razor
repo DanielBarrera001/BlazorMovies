@@ -1,0 +1,17 @@
+﻿<FormularioEntidad Entidad="Actor" FormularioPosteadoConExito="FormularioPosteadoConExito" PosteoEnCurso="PosteoEnCurso" OnValidSubmit="OnValidSubmit" FormularioInvalido="FormularioInvalido">
+    
+    <BPInputText Label="Nombre" @bind-Value="@Actor.Nombre" />
+    <BPInputDate Label="Fecha de nacimiento" @bind-Value="@Actor.FechaNacimiento" />
+    <InputImage Label="Foto del actor" ImagenSeleccionada="archivo => Actor.FotoArchivo = archivo" ImagenURL="@Actor.FotoURL" />
+
+</FormularioEntidad>
+
+@code {
+    private EditContext? editContext;
+    private bool formularioInvalido = true;
+    [Parameter, EditorRequired] public Actor Actor { get; set; } = null!;
+    [Parameter, EditorRequired] public bool FormularioPosteadoConExito { get; set; } = false;
+    [Parameter, EditorRequired] public bool PosteoEnCurso { get; set; } = false;
+    [Parameter, EditorRequired] public EventCallback OnValidSubmit { get; set; }
+    [Parameter, EditorRequired] public bool FormularioInvalido { get; set; } = true;
+}

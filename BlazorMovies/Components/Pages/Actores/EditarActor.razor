@@ -1,9 +1,45 @@
 ﻿@page "/actores/editar/{Id:int}"
+@inject NavigationManager navigationManager
 
 
 <h3>EditarActor</h3>
 
+@if(actor is null)
+{
+    <Cargando />
+}
+else
+{
+    <FormularioActor FormularioPosteadoConExito="formularioPosteadoConExito" FormularioInvalido="false" OnValidSubmit="Editar" Actor="actor" />
+}
+
 @code {
 
     [Parameter] public int Id { get; set; }
+    private bool formularioPosteadoConExito = false;
+    private bool posteoEnCurso = false;
+    private Actor actor = null!;
+
+    protected override void OnInitialized()
+    {
+        actor = new() { Id = Id, Nombre = "Daniel", FechaNacimiento = new DateTime(2002, 10, 08), FotoURL = "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/TomHolland-byPhilipRomano.jpg/960px-TomHolland-byPhilipRomano.jpg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" };
+    }
+
+    private async Task Editar()
+    {
+        if (!posteoEnCurso)
+        {
+            posteoEnCurso = true;
+            Console.WriteLine("Ejecutando metodo editar");
+            await Task.Delay(2000);
+            Console.WriteLine($"Nombre del actor: {actor.Nombre}");
+            Console.WriteLine($"Fecha de nacimiento del actor: {actor.FechaNacimiento}");
+            Console.WriteLine($"Hay imagen: {actor.FotoArchivo is not null}");
+            posteoEnCurso = false;
+            formularioPosteadoConExito = true;
+            StateHasChanged();
+            navigationManager.NavigateTo("/actores");
+
+        }
+    }
 }

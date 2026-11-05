@@ -1,20 +1,37 @@
 ﻿@page "/generos/crear"
 @rendermode InteractiveServer
+@inject NavigationManager navigationManager
 
 <h3>Crear Genero</h3>
 
-<EditForm Model="genero" OnValidSubmit="Crear">
-    <DataAnnotationsValidator/>
-    <BPInputText Label="Nombre" @bind-Value="genero.Nombre"></BPInputText>
-    <BMBoton Tipo="BotonTipo.Submit"></BMBoton>
-</EditForm>
+<FormularioGenero FormularioPosteadoConExito="formularioPosteadoConExito" PosteoEnCurso="posteoEnCurso" OnValidSubmit="Crear" Genero="genero"/>
 
 @code {
-    private Genero genero = new Genero();
+    private Genero genero = null!;
 
-    private void Crear()
+    private bool posteoEnCurso = false;
+    private bool formularioPosteadoConExito = false;
+
+    protected override void OnInitialized()
     {
-        Console.WriteLine("Ejecutando metodo Crear");
-        Console.WriteLine($"El nombre del genero: {genero.Nombre}");
+        genero = new Genero();
     }
+
+    private async Task Crear()
+    {
+        if (!posteoEnCurso)
+        {
+            posteoEnCurso = true;
+            Console.WriteLine("Ejecutando metodo Crear");
+            await Task.Delay(2000);
+            Console.WriteLine($"El nombre del genero: {genero.Nombre}");
+            posteoEnCurso = false;
+            formularioPosteadoConExito = true;
+            StateHasChanged();
+            navigationManager.NavigateTo("/generos");
+        }
+
+    }
+
+    
 }
