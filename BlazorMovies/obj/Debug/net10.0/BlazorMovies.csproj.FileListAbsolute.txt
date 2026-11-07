@@ -24,7 +24,6 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedc
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\bundle\BlazorMovies.styles.css
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\projectbundle\BlazorMovies.bundle.scp.css
-C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\25tkr6fc2p-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\wnql3vgfi4-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\ejt30j1kih-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\a2pxfcem5v-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -90,3 +89,9 @@ C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedc
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\scopedcss\Components\Compartidos\SelectorMultiple\SelectorMultiple.razor.rz.scp.css
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\98rydg6hia-{0}-ixlegtx96i-ixlegtx96i.gz
 C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\cmzlv9dlug-{0}-ixlegtx96i-ixlegtx96i.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\bin\Debug\net10.0\MudBlazor.dll
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\BlazorMovies.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\tzxjg6is5z-{0}-k4r0it8844-k4r0it8844.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\0wz98yz2xy-{0}-l3r8y5kzi5-l3r8y5kzi5.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\o7k4cxtn0u-{0}-1pqhanvk5n-1pqhanvk5n.gz
+C:\Users\Daniel\source\repos\BlazorMovies\BlazorMovies\obj\Debug\net10.0\compressed\25tkr6fc2p-{0}-xyc98eboht-xyc98eboht.gz

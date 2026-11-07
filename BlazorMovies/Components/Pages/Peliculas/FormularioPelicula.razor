@@ -8,9 +8,12 @@
     <InputImage Label="Poster" ImagenSeleccionada="archivo => Pelicula.PosterArchivo = archivo" ImagenURL="@Pelicula.PosterURL"/>
     <SelectorMultiple Label="Generos" Seleccionados="Seleccionados" NoSeleccionados="NoSeleccionados" />
 
+    <BPAutoCompleteActor  ActoresSeleccionados="ActoresSeleccionados"/>
+
 </FormularioEntidad>
 
 @code {
+    [Parameter] public List<Actor> ActoresSeleccionados { get; set; } = [];
     [Parameter] public List<Genero> GenerosSeleccionados { get; set; } = [];
     [Parameter] public List<Genero> GenerosNoSeleccionados { get; set; } = [];
     [Parameter, EditorRequired] public Pelicula Pelicula { get; set; } = null!;
@@ -31,9 +34,18 @@
 
     private async Task PosteoFormulario()
     {
-        Pelicula.GenerosPelicula = Seleccionados.Select(x => new GeneroPelicula
+        Pelicula.GenerosPelicula = Seleccionados
+        .Select(x => new GeneroPelicula
             {
                 GeneroId = int.Parse(x.Identificador)
+            }).ToList();
+
+        Pelicula.ActoresPelicula = ActoresSeleccionados
+        .Select((actor, indice) => new ActorPelicula
+            {
+                ActorId = actor.Id,
+                Personaje = actor.Personaje,
+                Orden = indice
             }).ToList();
 
             await OnValidSubmit.InvokeAsync();

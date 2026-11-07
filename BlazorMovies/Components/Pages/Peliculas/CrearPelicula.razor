@@ -42,6 +42,8 @@
             Console.WriteLine($"Fecha de lanzamiento: {pelicula.FechaLanzamiento}");
             Console.WriteLine($"Hay imagen: {pelicula.PosterArchivo is not null}");
             Console.WriteLine($"En cartelera:{pelicula.EnCartelera}");
+            Console.WriteLine("Actores");
+            pelicula.ActoresPelicula.ForEach(x => Console.WriteLine($"{x.ActorId} - {x.Personaje}"));
             posteoEnCurso = false;
             formularioPosteadoConExito = true;
             StateHasChanged();

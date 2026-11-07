@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\editarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\editarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\crearpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\crearpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\formulariopelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\formulariopelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\bpautocompleteactor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\bpautocompleteactor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\actorpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\entidades\\actorpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\editarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\editarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\crearpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\crearpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\compartidos\\selectormultiple\\selectormultiplemodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\compartidos\\selectormultiple\\selectormultiplemodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\generos\\formulariogenero.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\pages\\peliculas\\formulariopelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\pages\\peliculas\\formulariopelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\components\\compartidos\\selectormultiple\\selectormultiple.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\components\\compartidos\\selectormultiple\\selectormultiple.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|solutionrelative:blazormovies\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFE5B10C-0272-E0C5-2E29-D9B4B0596B9E}|BlazorMovies\\BlazorMovies.csproj|c:\\users\\daniel\\source\\repos\\blazormovies\\blazormovies\\entidades\\generopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,82 +94,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BPAutoCompleteActor.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\BPAutoCompleteActor.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\BPAutoCompleteActor.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\BPAutoCompleteActor.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\BPAutoCompleteActor.razor",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T00:13:00.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorMovies\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorMovies\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-07T03:16:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarPelicula.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T01:16:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BlazorMovies\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-05T04:17:35.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorMovies\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
-              "RelativeToolTip": "BlazorMovies\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T04:16:22.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\App.razor",
-              "RelativeDocumentMoniker": "BlazorMovies\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\App.razor",
-              "RelativeToolTip": "BlazorMovies\\Components\\App.razor",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T04:15:13.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorMovies\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\_Imports.razor",
-              "RelativeToolTip": "BlazorMovies\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T04:14:54.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SelectorMultipleModelo.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
-              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
-              "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T02:10:05.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CrearPelicula.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\CrearPelicula.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\CrearPelicula.razor",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\CrearPelicula.razor",
               "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\CrearPelicula.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-05T01:04:08.026Z",
               "EditorCaption": ""
@@ -157,19 +165,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EditarPelicula.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
-              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
-              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\EditarPelicula.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAABRAAAAAAAAAA==",
+              "Title": "FormularioPelicula.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T01:16:30.654Z",
+              "WhenOpened": "2026-11-05T00:55:53.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "BlazorMovies\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T00:54:20.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ActorPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\ActorPelicula.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\ActorPelicula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\ActorPelicula.cs",
+              "RelativeToolTip": "BlazorMovies\\Entidades\\ActorPelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T00:11:24.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarActor.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Actores\\EditarActor.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Actores\\EditarActor.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Actores\\EditarActor.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Actores\\EditarActor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T00:16:58.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Actor.cs",
+              "RelativeToolTip": "BlazorMovies\\Entidades\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T00:25:18.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Program.cs",
+              "RelativeToolTip": "BlazorMovies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:16:22.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\App.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\App.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T04:15:13.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorMovies\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T04:14:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SelectorMultipleModelo.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
+              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
+              "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultipleModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T02:10:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SelectorMultiple.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor",
@@ -177,12 +285,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T02:08:59.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T02:08:59.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "FormularioGenero.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Generos\\FormularioGenero.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Generos\\FormularioGenero.razor",
@@ -190,25 +297,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Generos\\FormularioGenero.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T00:39:29.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T00:39:29.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormularioPelicula.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
-              "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
-              "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Peliculas\\FormularioPelicula.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T00:55:53.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "SelectorMultiple.razor.css",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor.css",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor.css",
@@ -216,12 +309,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\SelectorMultiple\\SelectorMultiple.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-05T02:18:40.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T02:18:40.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "GeneroPelicula.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\GeneroPelicula.cs",
               "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\GeneroPelicula.cs",
@@ -229,12 +321,11 @@
               "RelativeToolTip": "BlazorMovies\\Entidades\\GeneroPelicula.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T02:07:32.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T02:07:32.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PeliculaIndividual.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\PeliculaIndividual.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\PeliculaIndividual.razor",
@@ -242,25 +333,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\PeliculaIndividual.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T02:01:33.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T02:01:33.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
-              "RelativeDocumentMoniker": "BlazorMovies\\Entidades\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Entidades\\Pelicula.cs",
-              "RelativeToolTip": "BlazorMovies\\Entidades\\Pelicula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T00:54:20.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "FormularioEntidad.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Compartidos\\FormularioEntidad.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Compartidos\\FormularioEntidad.razor",
@@ -268,12 +345,11 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Compartidos\\FormularioEntidad.razor",
               "ViewState": "AgIAACMAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T00:39:12.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T00:39:12.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "FormularioActor.razor",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\BlazorMovies\\BlazorMovies\\Components\\Pages\\Actores\\FormularioActor.razor",
               "RelativeDocumentMoniker": "BlazorMovies\\Components\\Pages\\Actores\\FormularioActor.razor",
@@ -281,8 +357,7 @@
               "RelativeToolTip": "BlazorMovies\\Components\\Pages\\Actores\\FormularioActor.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T00:38:48.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T00:38:48.113Z"
             }
           ]
         }
